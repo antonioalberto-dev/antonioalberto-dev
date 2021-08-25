@@ -1,6 +1,5 @@
 ### Oi, dev. Eu sou o Antônio Alberto. Seja bem vindo ao meu perfil do Git Hub.
 
-- 🔭 Trabalho com Front-end
 - 🌱 Estudando React Native e Flutter
 
 <div>
