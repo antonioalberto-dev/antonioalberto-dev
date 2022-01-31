@@ -1,5 +1,7 @@
-### Oi, dev. Eu sou o Antônio Alberto. Seja bem vindo ao meu perfil do Git Hub.
+### E ai, viajante. Tudo bem?
+### Meu nome é Antônio Alberto. Sou graduando do curso de Engenharia de Software na Universidade Federal do Amazonas.
 
+- 👽 Focado em desenvolvimento Front-end. 
 - 🌱 Estudando React Native e Flutter
 
 <div>
