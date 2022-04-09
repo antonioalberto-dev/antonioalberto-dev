@@ -1,8 +1,9 @@
-### E ai, viajante. Tudo bem?
-### Meu nome é Antônio Alberto. Sou graduando do curso de Engenharia de Software na Universidade Federal do Amazonas.
+### Meu nome é Antônio Alberto. 
+### Sou acadêmico do curso de Engenharia de Software na Universidade Federal do Amazonas.
 
-- 👽 Focado em desenvolvimento Front-end. 
+- 👽 Desenvolvedor Front-end. 
 - 🌱 Estudando React Native e Flutter
+- :star2: Gosto de desafios
 
 <div>
   <a href="https://github.com/antonioalberto-dev">
