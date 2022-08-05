@@ -28,7 +28,5 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-206594194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/antonioalberto-dev/antonioalberto-dev/blob/output/github-contribution-grid-snake.svg)
-  
 
 
