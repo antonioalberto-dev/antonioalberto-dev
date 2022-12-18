@@ -20,8 +20,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioalberto-dev&layout=compact&hide_border=true&title_color=506ee5&text_color=fff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=antonioalberto-dev&theme=gotham&hide_border=true&area=true&color=fff&point=fa6a64&line=506ee5&bg_color=0d1117&area_color=506ee5)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonioalberto-dev&bg_color=000000&color=f5f5f5&line=3206e4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="">
