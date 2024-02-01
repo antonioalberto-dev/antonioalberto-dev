@@ -1,9 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=506ee5&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=68b2f8&size=45&center=true&vCenter=true&width=1200&lines=Hello,+my+name+is+Antônio+Alberto;I'm+from+Coari,+Amazonas;I+am+graduating+in+Software+Engineering;Welcome+:%29)](https://git.io/typing-svg)
-
-<br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/antonioalberto-dev/">
