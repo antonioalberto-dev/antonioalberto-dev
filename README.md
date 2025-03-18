@@ -1,65 +1,137 @@
-<div align="center">
+# 🥷 Antônio Alberto
 
-<a href="https://www.linkedin.com/in/antonioalberto-dev/">
+**`Engenheiro de Software`**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Sou natural de Coari, Amazonas. Concluí o ensino médio em Informática pelo Instituto Federal do Amazonas e sou formado em Engenharia de Software pela Universidade Federal do Amazonas. Tenho 2 anos de experiência como desenvolvedor, atuando tanto no backend quanto no desenvolvimento mobile. Atualmente, minha principal área de atuação é o desenvolvimento mobile.
 
-</a>
+Minha trajetória profissional me permitiu explorar diversas tecnologias e aprimorar minhas habilidades no desenvolvimento de aplicações escaláveis e responsivas. Tenho um forte interesse por arquitetura de software, boas práticas de desenvolvimento e otimização de desempenho.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+#### Web e Mobile
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+</br>
+</br>
+
+#### Backend
+
+<div class=backend>
+  <img 
+      align="left" 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+  <img 
+      align="left" 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+  />
+
+<img align="left" alt="Spark" 
+      title="Spark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+
+<img align="left" alt="Java" 
+      title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img align="left" alt="Dotnet" 
+      title="Dotnet" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+
+<img align="left" alt="spring" 
+      title="spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+
 </div>
 
-<br>
+</br></br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antonioalberto-dev&show_icons=true&count_private=true&hide_border=true&title_color=506ee5&icon_color=d4d323&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Alberto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioalberto-dev&layout=compact&hide_border=true&title_color=506ee5&text_color=fff&bg_color=0d1117" />
-</div>
+### 📊 Estatísticas
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonioalberto-dev&bg_color=000000&color=f5f5f5&line=3206e4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=antonioalberto-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="center" style="">
-<br>
-
-## <span style="font-family:Verdana">Main skills</span>
-
-
-<div style="width: 80%">
-
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/React-00aa5f?style=for-the-badge&logo=react&logoColor=fff)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-</div>
-<br>
-
-## <span style="font-family:Verdana;">Other Knowledge</span>
-
-<div style="width: 80%">
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-<br>
-
-## <span style="font-family:Verdana">Studying in this moment</span>
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-084?style=for-the-badge&logo=node.js&labelColor=084&textColor=0D1117&logoColor=fff)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-
-</div>
-<br>
-
-<div align="center">
-    <br>
-    <p align="center"><span style="font-family:Verdana; font-size: 20px">Visitors Count</span><p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{antonioalberto-dev}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=506ee5&height=120&section=footer"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioalberto-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />   
+</p>
